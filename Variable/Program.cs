@@ -15,6 +15,8 @@ namespace Variable
 
             decimal decimalPI = 3.141592m;
 
+            decimal sum = centuries + year + decimalPI;
+
             bool isEmpty = true;
             char ch = 'a';
 
@@ -32,6 +34,7 @@ namespace Variable
             Console.WriteLine("Char is: " + ch);
             Console.WriteLine("FirstName is: " + firstName);
             Console.WriteLine("SecondChar is: " + secondChar);
+            Console.WriteLine("Centuries = {0}; year = {1}; decimalPI = {2}; sum = {3}", centuries, year, decimalPI, sum);
             Console.Read();
         }
     }
