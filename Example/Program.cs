@@ -71,7 +71,7 @@ namespace Example
             result = (inputInt % 2 == 0) ? "This is even number!" : "This is odd number!";
             Console.WriteLine("Your number input: {0} and {1}",input, result);
 
-
+            #region 
             //Example 8: Tính năm âm lịch
             string Can = "", Chi = "";
             int Year;
@@ -154,6 +154,10 @@ namespace Example
             }
 
             Console.WriteLine("Nam sinh am lich cua ban la : {0} {1}", Can, Chi);
+            #endregion
+
+            #region
+            #endregion
 
             Console.Read();
         }
