@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.156
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergerType", "IntergerType\IntergerType.csproj", "{662F77EB-0F50-4BA0-AC06-28596712D1EE}"
 EndProject
@@ -34,8 +34,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{845B129B-4F32-4C95-8793-7452262D0AD7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{3E6A7897-6702-4E49-9B62-125389F8B53F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChuyenTienSoSangChu", "ChuyenTienSoSangChu\ChuyenTienSoSangChu.csproj", "{A83EDBD6-14D2-4D1A-BFE1-E87FBB3F1E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,10 +105,6 @@ Global
 		{3E6A7897-6702-4E49-9B62-125389F8B53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E6A7897-6702-4E49-9B62-125389F8B53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E6A7897-6702-4E49-9B62-125389F8B53F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A83EDBD6-14D2-4D1A-BFE1-E87FBB3F1E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A83EDBD6-14D2-4D1A-BFE1-E87FBB3F1E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A83EDBD6-14D2-4D1A-BFE1-E87FBB3F1E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A83EDBD6-14D2-4D1A-BFE1-E87FBB3F1E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
